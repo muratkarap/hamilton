@@ -1,0 +1,13 @@
+* {margin: 0px; padding: 0px; background-color: black;}
+#head1{border:2px solid black; color: navy; margin:1px 5px 10px;
+position: absolute; top: 5px; left: 280px; font-family: 'Lobster', cursive;
+
+font-family: 'Righteous', cursive; font-variant:small-caps; font-size: larger;font-weight: 700;}
+#p1 {text-indent: 10px; color:steelblue; position: absolute;top: 40px;left:283px}
+#div2v {}
+#head2 {color: tan;position:absolute; top: 240px; margin: 20px;
+font-size: larger;color: navy;
+}
+#p2 {color: steelblue;position:absolute;top: 280px; width: 280px; margin: 10px;
+text-indent: 10px; text-justify: auto;}
+#karting {position: absolute;top: 320px;left: 330px;}

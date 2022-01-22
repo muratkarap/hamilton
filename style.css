@@ -14,7 +14,6 @@ text-decoration: none; position: relative; top: 3rem;
 font-family: 'Gemunu Libre', sans-serif;
 }
 a:hover {font-size:1.1rem;
-color: darkslategrey;
+color: darkslategrey;}
+#head1 {color: blue;}
 
-</li>
-}
